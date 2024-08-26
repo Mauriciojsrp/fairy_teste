@@ -17,7 +17,7 @@ Desenvolvimento de uma aplicação contendo:
 ## Passo a passo para rodar o projeto
 
 1. Clonar o repositório
-   git clone git@github.com:
+   git clone https://github.com/Mauriciojsrp/fairy_teste.git
 
 2. Instalar as depedências do projeto
   npm install
